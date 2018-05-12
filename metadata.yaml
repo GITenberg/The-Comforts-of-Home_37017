@@ -1,0 +1,30 @@
+_repo: The-Comforts-of-Home_37017
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37017-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bergengren, Ralph
+    birthdate: 1871
+    deathdate: 1947
+    gutenberg_agent_id: '25875'
+    url: http://www.gutenberg.org/2009/agents/25875
+description: ''
+gutenberg_issued: '2011-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37017'
+  lccn: '18013129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Essays'
+tableOfContents: Thoughts while getting settled -- Praise of open fires -- Furnace
+  and I -- No stairs! no attic -- Concerning kitchens -- The plumber appreciated --
+  The home of the porcelain tub -- At home in the guest chamber.
+title: The Comforts of Home
+url: http://www.gutenberg.org/ebooks/37017
